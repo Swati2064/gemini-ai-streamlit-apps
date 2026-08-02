@@ -212,12 +212,6 @@ Feel free to fork this repository, improve the project, and submit a pull reques
 
 ---
 
-## 📄 License
-
-This project is intended for educational and learning purposes.
-
----
-
 ## 👩‍💻 Author
 
 **Swati Jadhav**
